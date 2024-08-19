@@ -2,7 +2,7 @@
 
 **//Am Stephen,A software Developer in the making.//**
 
-- 🌱 Currently undertaking the ALX Software Development course..
-- 👯 looking to collaborate/contribute on open-source projects to apply my knowledge and gain experience. ...
-- 👯 looking to pairing or working with a more experienced programmer to accelerate my learning through mentorship.
+- FULL STACK SOFTWARE ENGINEER [March 2024 ALX GRADUATE]
+- 🌱 Currently learning and creating stuff using PHP/LARAVEL/FILAMENT/LIVEWIRE
+- 👯 looking to collaborate/contribute on projects to apply my knowledge and gain experience. ...
 - 📫 How to reach me:<stephenkiai23@gmail.com > ..
