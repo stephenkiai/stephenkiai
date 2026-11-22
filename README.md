@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-**//Am Stephen,A Simple Businessman.//**
+**//Just a Businessman who writes code and Fixes Phones.//**
 
-- FULL STACK SOFTWARE ENGINEER [March 2024 ALX GRADUATE]
-- learning and creating stuff using TALL STACK
-- How to reach me:<stephenkiai23@gmail.com > ..
+- Reach me:<stephenkiai23@gmail.com > ..
